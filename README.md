@@ -18,13 +18,12 @@
 - <b>Python</b>
   - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
 
-<h2>📺 Popular YouTube Videos</h2>
+<h2>Certifications</h2>
 
-- [How to get into Cybersecurity Starting From Zero](https://www.youtube.com/watch?v=a83ASGn_V_s)
-- [A Day in the Life of a Cybersecurity Anayst](https://www.youtube.com/watch?v=uHy3oM7NnoU)
-- [How to Create a KeyLogger (C#)](https://www.youtube.com/watch?v=N-L9hklSlNk)
-- [Ransomware Demonstration (C#)](https://www.youtube.com/watch?v=OfvdQeh79s0)
-- [Is WGU Legit?](https://www.youtube.com/watch?v=E2MwRWxDBkA)
+- [CompTIA Securyty+](https://www.credly.com/badges/182f0b48-c112-4f72-adea-42e54bd834b9/linked_in_profile)
+- [CompTIA Network+](https://www.credly.com/badges/9f7597a2-a64c-40d4-bc5c-961eae3809e3/linked_in_profile)
+- [ISC2 Certified in Cybersecurity (CC)](https://www.credly.com/badges/9cb7120f-fb3e-4d3f-95ec-2c9f7664f3e3/linked_in_profile)
+- CompTIA CySA+ (Expected 11/2024)
 
 <h2> 🤳 Connect with me:</h2>
 
